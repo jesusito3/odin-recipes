@@ -1,0 +1,28 @@
+.recipes{
+    background-color: chartreuse;
+    font-family: "Times New Roman", sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+h1,
+h2{
+    background-color: lightcoral;
+}
+
+p{
+    background-color: rgb(112, 214, 157);
+    font-size: 24px;
+}
+
+.ingredients,
+.steps{
+    font-size: 20px;
+}
+.ingredients{
+    background-color: aqua;
+}
+
+.steps{
+    background-color: plum;
+}
