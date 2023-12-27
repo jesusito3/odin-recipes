@@ -1,4 +1,9 @@
+html {
+    background: teal;
+}
+
 .recipes{
+    width: 440px;
     background-color: chartreuse;
     font-family: "Times New Roman", sans-serif;
     font-size: 24px;
@@ -7,10 +12,13 @@
 
 h1,
 h2{
+    width: 600px;
+    text-align: center;
     background-color: lightcoral;
 }
 
 p{
+    width: 600px;
     background-color: rgb(112, 214, 157);
     font-size: 24px;
 }
@@ -21,6 +29,7 @@ p{
 }
 .ingredients{
     background-color: aqua;
+    width: 400px;
 }
 
 .steps{
